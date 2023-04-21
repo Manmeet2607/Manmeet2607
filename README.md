@@ -42,3 +42,9 @@
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
+ ---
+ 
+ ### :fire: My Stats :
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manmeet2607&theme=merko&card_width=500)](https://git.io/streak-stats)
+ 
